@@ -1,0 +1,32 @@
+body {
+    background-color: #84A4D3;
+}
+
+ol {
+    background-color: #fff;
+    color: #5968A3;
+    list-style-type: none;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+p {
+    color: #696565;
+}
+
+.price-text {
+    color: #5968A3;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+sup {
+    font-size: 14px;
+}
+
+sub {
+    font-size: 14px;
+}
